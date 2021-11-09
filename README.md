@@ -30,11 +30,11 @@
 
 ## Usage:
 
-### it creates a backend database for ecommerce
+### This app takes an Express.js API and configures it to use Sequelize in order to interact with a MySQL database. The use of this app is to create an example of a functioning backend for the ever growing world of e-commerce.
 
 ## Contributors:
 
-### be cool
+### Miguel-Con-Queso
 
 ## Tests:
 
